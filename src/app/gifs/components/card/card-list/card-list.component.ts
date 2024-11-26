@@ -1,6 +1,6 @@
 import { Component, Input } from '@angular/core';
 
-import { Gif } from '../../interfaces/gifs.interfaces';
+import { Gif } from '../../../interfaces/gifs.interfaces';
 
 @Component({
   selector: 'gif-card-list',
